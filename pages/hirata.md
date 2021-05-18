@@ -1,10 +1,10 @@
-# Hirata Estate
+# [Hirata Estate](@) {#:id}
 + [Sculptor's Idol] (Dragonspring - Hirata Estate)
 + [Pellet]
   `:?` Near the idol.
 + [Fistful of Ash]
-  `:?` Next to the [Nightjar Ninja].
-+ `t l` [Nightjar Ninja]
+  `:?` Next to the [Nightjar].
++ `t l` [Nightjar]
 + [Dousing Powder]
   `:?` Start of the bridge.
   
@@ -52,7 +52,7 @@
   + [Gokan's Sugar]
   + `s` Estate path gate.
   + [Prosthetic Esoteric Text] {:single=prosthetic_skills}
-    Back at [Delapidated Temple].
+    Back at [Dilapidated Temple].
   - Right side
     + `e` "We burning this temple next"
     + `w` [Shinobi Axe of the Monkey]
