@@ -1,4 +1,4 @@
-# Ashina Reservoir
+# [Ashina Reservoir](@) {#:id}
 
 ## [Prologue] {#:id}
 `:w` First two eavesdrop conversations are only available until you enter the tower.
@@ -27,25 +27,30 @@
 
 Finishing the prologue moves you to the [Dilapidated Temple].
   
-## [Day]
+## [Early Game] {#reservoir}
 + [Sculptor's Idol] (Ashina Reservoir)
 + `e` [Ashina Soldier]s
+  `:i` "Heard reports of a shinobi .."
 - Well
   `:i` In and around the well that you start the game in.
   + `t q` [Jinzaemon Kumano]
-  + `k o` [Lone Shadow Longswordsman]
-  + `u` [Scrap Iron]
+  + `k` [Lone Shadow Longswordsman]
+    - `=` [Prayer Bead]
+  + [Scrap Iron]
+  - The path at the back of the well leads to the [Bottomless Hole] area of the [Abandoned Dungeon].
 - Main area
   + [Ceramic Shard]
     `:?` Under the gatehouse.
   - Gatehouse
-    Requires [Gatehouse Key].
+    `:?` Requires [Gatehouse Key] from [the bridge between Ashina Castle and Abandoned Dungeon](castle_abandoned).
     + `w` [Gyoubu's Broken Horn]
     + [Heavy Coin Purse]
   + [Fistful of Ash]
   + [Pellet]
-- Moon-view Tower
+- Moon-view tower
   + `k` [Seven Ashina Spears - Shikibu Toshikatsu Yamauchi]
-    - [Prayer Bead]
+    - `=` [Prayer Bead]
   + `l` [Remnant]
   + [Scrap Iron]
+  + [Bundled Jizo Statue]
+    `:?` Grapple up the outside of the tower and go around to balcony at the back of the tower.

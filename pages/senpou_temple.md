@@ -1,87 +1,81 @@
-# Senpou Temple, Mt. Kongo
+# [Senpou Temple, Mt. Kongo](@Senpou_Temple) {#senpou_temple}
+
+#### Approach
+
 + `t l` Wall hanging
 + [Sculptor's Idol] (Senpou Temple, Mt. Kongo)
 - Around the shack
   + [Gachiin's Sugar]
   + [Scrap Iron]
-  + `t q` [Kotaro]    
-    - `c` Give him:
-      + [White Pinwheel] and use [Divine Abduction] on him, then talk to him in the Illusive Hall to get [Kotaro's Persimmon]
-      + [Red and White Pinwheel] and send him to [Anayama]
-      + [Red and White Pinwheel] and send him to [Doujun]
+  + `t l` [Kotaro]
 - Below the broken bridge
   + [Mibu Balloon of Spirit]
   + [Gachiin's Sugar]
-  - With [Puppetteer Ninjutsu]
-    + Use [Puppetteer Ninjutsu] on the [rat] next to the kite handle, then go up the mountain to the big bent tree to use the now raised kite to gain access to the cave.
 - Slope
   + [Light Coin Purse] (roof)
   + [Mibu Posession Balloon] (cliff edge)
   + [Pellet]
+  + [Pacifying Agent]
   + [Ako's Sugar]
   + 2 [Antidote Powder]s
   + [Light Coin Purse] (cliff edge)
+  + [Heavy Coin Purse]
+    `:?` On a raised ledge far to the right of the guardhouse entrance.
   + [Fistful of Ash]
 - Guardhouse
   + [Ako's Sugar] (attic)
   + [Gokan's Sugar]
   + [Ceramic Shard]
   + [Lump of Fat Wax]
-  + `!` [Gourd Seed]
+  + `=` [Gourd Seed]
   + [Mibu Balloon of Spirit] (outside)
-+ `t l` [Faithful One (Senpou Temple)]
-  + `l` Give her [Rice]
-- [Sunken Valley Cavern]
-  Accessible with the kite permanently raised, which requires [Puppetteer Ninjutsu].
-  + [Snap Seed]
-  + [Scrap Magnetite]
-  + [Sculptor's Idol] (Sunken Valley Cavern)
-  + [Mibu Balloon of Spirit]
-  + `k` [Fresh Serpent Viscera]
-  - Cliff edge
-    `:w` Only accessible once!
-    + [Mibu Balloon of Soul]
-    + [Dragon's Blood Droplet], [Bundled Jizo Statue]
-    - Drop down and follow the path to Riven Cave and [Sunken Valley].
-- Main area
-  + [Light Coin Purse] (tree branch)
-  + [Ungo's Sugar] (behind the building)
-  + [Antidote Powder] (corner)
-  + [Gachiin's Sugar] (broken bridge)
-  + [Pellet] (cliff edge)
+- Courtyard
+  + [Light Coin Purse]
+    `:?` Branch on the huge tree.
+  + [Ungo's Sugar]
+    `:?` Behind one of the buildings near the large tree.
+  + [Antidote Powder]
+    `:?` In one of the corners of the courtyard.
+  + [Gachiin's Sugar]
+    `:?` On the broken bridge.
+  + [Pellet]
+    `:?` Edge of the cliff, guarded by two [Bandit]s.
   
-### Cliffs
+#### Cliffs
+`:i` The area starting from when you grapple away from the broken bridge until you reach the temple grounds sculptor's idol.
 + [Sculptor's Idol] (Shugendo)
 - Memorial Mob clearing
   + [Ceramic Shard]
-  + [Shugendo Memorial Mob]
-    + `$` [Five Colored Rice] (1600 sen)
+  - [Shugendo Memorial Mob]
+    + `$ =` [Five Colored Rice] (1600 sen)
 + [Mibu Balloon of Spirit] (small cave)
 + [Gachiin's Sugar] (pillar cliff)
-- Pinwheel cliff
-  + [Red and White Pinwheel]
-- Demon Bell mountain
-  `:?` From the pinwheel cliff, drop down the side, jump over to the broken off wooden planks and follow the path from there.
+- Demon Bell shrine
+  `:?` Follow the wooden plank walkway up along the cliff face until you reach a wall on your right that you're supposed to jump up and grab. Instead, look forwards and down along the cliff face to find a distant non-landing grapple point with another grabbing wall behind it. Do a running jump, grapple the point in mid-air and then grab the cliff edge as you're falling on the other side.
+  `:i` Including the path to it.
+  + [Heavy Coin Purse]
   + `!` [White Pinwheel]
   - Shrine
     + [Heavy Coin Purse]
     + `!` [Monkey Booze]
-      + Give to [Emma]
     + [Black Gunpowder]
     - Secret passage
+      `:i` Connects the Demon Bell shrine with the [Headless]' cave near the [Ashina Outskirts Gate Path].
       + `l` [Shinobi Path Note]
   + [Sculptor's Idol] (Demon Bell's Temple)
   + `l` [Bell Inscription]
-  + Ring the bell to increase difficulty & item drops (not sen or EXP though)
+    `:i` Ringing the bell increases difficulty and item drop rate, but not EXP or sen rewards.
++ [Red and White Pinwheel]
+  `:?` When you reach the wooden, walled-in bridge, instead of going across, turn almost around to reach a cliff full of red and white pinwheels.
 + `k` [Armored Warrior]
-  - [Prayer Bead]
+  - `=` [Prayer Bead]
   - `@` [Breath of Nature: Shadow]
   
-### Temple Grounds
+#### Temple Grounds
 + [Scrap Magnetite]
 + [Sculptor's Idol] (Temple Grounds)
 + [Ceramic Shard] (roof)
-+ 2 `k` [Treasure Carp Scale]s
++ `k` 2 [Treasure Carp Scale]s
   `:?` In the small pond.
 + [Fistful of Ash] (behind pagoda)
 + [Ceramic Shard] (ground)
@@ -99,10 +93,11 @@
   + [Mibu Balloon of Spirit]
   - Centipede building
     + `k` [Long Arm Centipede Sen-Un]
-      - [Prayer Bead]
+      - `=` [Prayer Bead]
     + [Gokan's Sugar]
     + 2 [Black Gunpowder]s
   + [Ungo's Sugar]
+  + [Gokan's Sugar]
 - Main Temple
   + [Ako's Sugar] (outside)
   + [Sculptor's Idol] (Main Hall)
@@ -112,19 +107,63 @@
   + [Ungo's Sugar]
   + [Black Gunpowder]
 - Cave
+  `:?` The cave next to the temple's back entrance.
   + [Mibu Balloon of Spirit]
   - Out the other end
     + [Pellet]
     + `@` [Senpou Esoteric Text]
   
-### Monkey fight
-- [Illusive Hall Bell]
-- [Memory]
-- [Puppeteer Ninjutsu]
+#### Halls of Illusion
+`:?` Ring the bell in the middle of the temple.
+- `!` [Illusive Hall Bell]
++ `l` [Roaring Hall Posting]
+  `:?` In the room with the falling water.
++ `l` [Light Hall Note]
+  `:?` In the room with the lighted Buddha statues and the sound of the wind.
++ `l` [Deafening Bell Note]
++ `b` [Folding Screen Monkeys]
+  - [Memory]
+  - `!` [Puppeteer Ninjutsu]
 
-### Inner Sanctum
+#### Inner Sanctum
 + [Sculptor's Idol] (Inner Sanctum)
 + [Pellet]
 + `t` [Divine Child of Rejuvenation]
-  - [Mortal Blade]
+  - `!` [Mortal Blade]
   + [Rice]
+
+### Travel
+With [Monkey Booze], both pinwheels, [Pupetteer Ninjutsu] and [Mortal Blade] acquired, travel to:
+##### [Ashina Castle Upper Tower - Kuro's Room]
++ `t l` Talk to [Kuro]
+  + `t l` [Okami's Ancient Text]
++ `t l` Give [Monkey Booze] to [Isshin Ashina]
+##### [Dilapidated Temple]
++ `t q` [Help Hanbei the Undying](kh) {:single=kh}
+##### [Senpou Temple, Mt. Kongo]
++ `t q` [Decide Kotaro's fate](kf)
++ `q` Permanently raise the kite
+  To access Sunken Valley Cavern.
+  `:?` Use [Puppetteer Ninjutsu] on the [rat] below the broken bridge next to the kite handle at the start of the [Senpou Temple].
++ `t l` Give [Rice] to the [Faithful One (Senpou Temple)]
+###### [Sunken Valley Cavern]
+`:i` Including the cliff edges leading to it.
+`:?` With the kite permanently raised, return to the courtyard with the big, bent tree. Get up on the tree to use the now raised kite to gain access to the cave.
++ [Snap Seed]
++ [Scrap Magnetite]
++ [Sculptor's Idol] (Sunken Valley Cavern)
+  + `t q` Talk to the [Divine Child] to receive more [Rice]
+    `:?` [Inner Sanctum] [sculptor's idol].
++ [Mibu Balloon of Spirit]
++ `k !` [Fresh Serpent Viscera]
+- Cliff edge
+  `:i` After acquiring the viscera.
+  `:w` Only accessible once!
+  + [Mibu Balloon of Soul]
+  + [Dragon's Blood Droplet], [Bundled Jizo Statue]
+  - Drop down to return to the [Riven Cave] area of the [Sunken Valley]
+##### [Bodhisattva Valley]
++ `t l` Give [Rice] to the [Faithful One (Sunken Valley)]
+  + Travel to [Inner Sanctum] to get more [Rice]
+- Continue down to the [ground level](valley_ground)
+  Assuming you've completed the [cliffs](valley_cliffs)).
