@@ -1,5 +1,7 @@
 # [Ashina Castle] approach {#:id}
 
+`:w` This entire area becomes unavailable once you move to [mid-game].
+
 #### Gate Fortress
 - Outside the wall
   + [Sculptor's Idol] (Ashina Castle Gate Fortress)

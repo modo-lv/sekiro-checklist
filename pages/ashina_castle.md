@@ -132,6 +132,10 @@
       `:?` Ask about the flower.
     + `=` Give [Sakura Droplet]
       `:?` Acquired by defeating [Lady Butterfly] in [Hirate Estate].
+  + `e l` Eavesdrop on [Kuro]
+    `:i` "We're almost there. .."
+    `:?` You must hide behind a nearby wall so that [Kuro] can't see you.
+    + `t l r` Talk to [Emma] about it and agree
   + `t` [Emma]
     + `l` Give [Unrefined Sake]
 
