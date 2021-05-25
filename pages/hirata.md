@@ -1,4 +1,5 @@
 # [Hirata Estate](@) {#:id}
+`:?` To get here, you must reach the [Timid Maid] in [Ashina Outskirts] outpost, who will give you [Young Lord's Bell Charm]. With that in your inventory, pray at the kind-faced Buddha sculpture in the [Dilapidated Temple].
 
 + [Sculptor's Idol] (Dragonspring - Hirata Estate)
 + [Pellet]

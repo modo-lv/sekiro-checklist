@@ -142,11 +142,26 @@ With [Monkey Booze], both pinwheels, [Pupetteer Ninjutsu] and [Mortal Blade] acq
 + `t q` [Help Hanbei the Undying](kh) {:single=kh}
 ##### [Senpou Temple, Mt. Kongo]
 + `t q` [Decide Kotaro's fate](kf)
++ `t l` Give [Rice] to the [Faithful One (Senpou Temple)]
+  `:?` Near the thick, bent tree trunk in the courtyard (backtrack from the Shugendo idol).
+
+
+## [Mid-game] {#senpou_mid}
+#### Temple Grounds
+- Underwater
+  `:?` In the small pond below the [Temple Grounds] [sculptor's idol].
+  + `!` [Holy Chapter: Infested]
+  + `=` [Prayer Bead]
+
+#### Inner Sanctum
++ `t` Give [Holy Chapter: Infested] to the [Divine Child]
+
+#### Approach
 + `q` Permanently raise the kite
   To access Sunken Valley Cavern.
   `:?` Use [Puppetteer Ninjutsu] on the [rat] below the broken bridge next to the kite handle at the start of the [Senpou Temple].
-+ `t l` Give [Rice] to the [Faithful One (Senpou Temple)]
-###### [Sunken Valley Cavern]
+
+#### [Sunken Valley Cavern] {#:id}
 `:i` Including the cliff edges leading to it.
 `:?` With the kite permanently raised, return to the courtyard with the big, bent tree. Get up on the tree to use the now raised kite to gain access to the cave.
 + [Snap Seed]
@@ -154,6 +169,8 @@ With [Monkey Booze], both pinwheels, [Pupetteer Ninjutsu] and [Mortal Blade] acq
 + [Sculptor's Idol] (Sunken Valley Cavern)
   + `t q` Talk to the [Divine Child] to receive more [Rice]
     `:?` [Inner Sanctum] [sculptor's idol].
++ `t l` [Blackhat Badger] in the Sunken Valley Cavern
+  If you've bought the [Iron Fortress] before.
 + [Mibu Balloon of Spirit]
 + `k !` [Fresh Serpent Viscera]
 - Cliff edge
@@ -161,9 +178,5 @@ With [Monkey Booze], both pinwheels, [Pupetteer Ninjutsu] and [Mortal Blade] acq
   `:w` Only accessible once!
   + [Mibu Balloon of Soul]
   + [Dragon's Blood Droplet], [Bundled Jizo Statue]
-  - Drop down to return to the [Riven Cave] area of the [Sunken Valley]
-##### [Bodhisattva Valley]
-+ `t l` Give [Rice] to the [Faithful One (Sunken Valley)]
-  + Travel to [Inner Sanctum] to get more [Rice]
-- Continue down to the [ground level](valley_ground)
-  Assuming you've completed the [cliffs](valley_cliffs)).
+  - Continue on at the [bottom of the Bodhisattva Valley](sunken_mid)
+

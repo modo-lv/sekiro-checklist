@@ -1,7 +1,5 @@
 # [Ashina Castle] approach {#:id}
 
-`:w` This entire area becomes unavailable once you move to [mid-game].
-
 #### Gate Fortress
 - Outside the wall
   + [Sculptor's Idol] (Ashina Castle Gate Fortress)
@@ -43,11 +41,13 @@
     `:?` In the attic.
     
 #### Path to castle
+`:w` This section becomes inaccessible once you move to [mid-game].
+
 - First section
   + `e` [Rat]s
     `:i` "It seems Isshin's illness .."
-  + Kill [rats]
-    + `=` [Ashina Esoteric Text]
+  + `k` Kill the [rat]s
+    + `@` [Ashina Esoteric Text]
       Talk to [Tengu of Ashina] back at castle fortress.
   + [Pellet]
   + [Ceramic Shard]

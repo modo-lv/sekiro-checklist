@@ -1,6 +1,7 @@
 # [Sunken Valley](@) {#:id}
 
 #### Cliff path
+`:i` Everything from Under-Shrine Valley idol up to the Gun Fort approach.
 + [Sculptor's Idol] (Under-Shrine Valley)
 
 - Gravesite {#gravesite}
@@ -17,6 +18,7 @@
 + [Antidote Powder]
   
 #### Gun Fort approach
+`:i` The ledge overlooking the a tall cliff with the Buddha's head statue on it, and the cliff face beyond the rope bridge.
 + `t l` [Rat]
 + [Sculptor's Idol] (Sunken Valley)
 + [Scrap Magnetite]
@@ -53,6 +55,7 @@
   + [Mibu Balloon of Soul]
 
 #### Sunken Valley passage
+`:i` The large lake with a rope bridge over it.
 + [Snap Seed]
   `:?` On a cliff ledge below the start of the bridge.
 ##### Riven Cave {#:id}
@@ -61,6 +64,7 @@
 
 #### [Bodhisattva Valley](@) {#:id}
 ##### Cliffs {#valley_cliffs}
+`:i` Includes everything you can reach without dropping down to the poison-filled bottom of the valley.
 + [Snap Seed]
 + [Pacifying Agent]
 + [Contact Medicine]
@@ -73,7 +77,7 @@
 + [Contact Medicine] ([Nightjar])
 + [Ungo's Sugar]
 + [Sculptor's Idol] (Bodhisattva Valley)
-- Guardian Ape's Watering Hole
+- [Guardian Ape]'s Watering Hole
   + `b` [Guardian Ape]
     - [Memory]
     - `w` [Slender Finger]
@@ -85,7 +89,14 @@
   + To [Abandoned Dungeon] and then [Senpou Temple].
     `:i` Completing [Senpou Temple] will grant you [Puppeteer Ninjutsu], which is required to retrieve [Dried Serpent Viscera] further down the valley.
 
-##### Ground level {#valley_ground}
+## [Mid-game] {#sunken_mid}
+#### [Bodhisattva Valley](@)
+`:i` The ground level is accessible from the start, but you need [Pupetteer Ninjutsu] to complete the serpent shrine, and you don't receive instructions to go there until [mid-game].
+##### Cliffs
++ `t l` Give [Rice] to the [Faithful One (Sunken Valley)]
+  `:?` Next to the [Bodhisattva Valley] [sculptor's idol].
+  + Travel to [Inner Sanctum] to get more [Rice]
+##### Ground level
 + [Mibu Balloon of Soul]
   `:?` Ledge on the way down from the idol.
 + [Yellow Gunpowder]
@@ -99,17 +110,16 @@
   + [Snap Seed]
   + [Toxic Memorial Mob]
     + `$` [Green Mossy Gourd]
- - Cave
-  + [Antidote Powder]
-  + [Fistful of Ash]
-  - Small alcove
-    + [Pellet]
-    + [Scrap Magnetite]
-    + [Fistful of Ash]
+###### Cave
++ [Antidote Powder]
++ [Fistful of Ash]
+- Small alcove
+  + [Pellet]
   + [Scrap Magnetite]
-  - Serpent Shrine
-    `:?` Use [Pupetteer Ninjutsu] on the lone monkey cowering not far behind the serpent's head. It will distract the serpent, allowing you to grapple up and enter the shrine.
-    + `!` [Dried Serpent Viscera]
-    + [Mibu Balloon of Soul]
-    + [Divine Confetti]
-    
+  + [Fistful of Ash]
++ [Scrap Magnetite]
+- Serpent Shrine
+  `:?` Use [Pupetteer Ninjutsu] on the lone monkey cowering not far behind the serpent's head. It will distract the serpent, allowing you to grapple up and enter the shrine.
+  + `!` [Dried Serpent Viscera]
+  + [Mibu Balloon of Soul]
+  + [Divine Confetti]

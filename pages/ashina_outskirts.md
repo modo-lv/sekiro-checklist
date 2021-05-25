@@ -27,7 +27,7 @@
   + [Pellet]
     `:?` Cliff on the left of the fourth gate.
   + [Bundled Jizo Statue]
-    `:?` From the cliff ledge that the [Pellet] was on, look down to spot a platform you can land on far down. The drop is large enough to hurt, make sure you have more than half your health to survive it. You can use [Homeward Idol] to return to the [sculptor's idol] and continue on from the the 4th gate.
+    `:?` From the cliff ledge that the [Pellet] was on, look down to spot a platform you can land on far down. The drop is large enough to hurt, make sure you have more than half your health to survive it. One you've made it down and picked up the statue, can use [Homeward Idol] to return to the [sculptor's idol] and continue on from the the 4th gate (you can also grapple to the cliffs behind the outpost).
 - Between 4th gate and outpost
   + `k` [General Naomori Kawarada]
     - `=` [Prayer Bead]
@@ -64,64 +64,65 @@
     `:?` On the side of the path, next to the house.
 
 #### Stairway
-  `:i` The area after the cannon gate, up to the final gate.
+`:i` The area after the cannon gate, up to the final gate.
 
-  - Recommendation: Travel to [Hirata Estate] after reaching the next [sculptor's idol].
-    `:?` Use the [Young Lord's Bell Charm] on the kind-faced Buddha sculpture in the [dilapidated temple].
-    `:i` The estate contains [Flame Vent] prosthetic tool, which can stagger the mini-boss coming up.
++ [Pellet] (cannon gate)
+  `:?` At the foot of the closed gate just below the [Cannoneer].
 
-  + [Pellet] (cannon gate)
-    `:?` At the foot of the closed gate just below the [Cannoneer].
+- Cliffs
+  `:?` From the corner of the [Cannoneer] platform, jump/grapple down on to a tree branch. From here, you can jump and grapple your way around a pair of cliffs.
+  + 2 [Mibu Posession Balloon]s
+  + [Scrap Iron]
   
-  - Cliffs
-    `:?` From the corner of the [Cannoneer] platform, jump/grapple down on to a tree branch. From here, you can jump and grapple your way around a pair of cliffs.
-    + 2 [Mibu Posession Balloon]s
-    + [Scrap Iron]
-    
-  - [Anayama the Peddler]
-    1. + `$ q` Purchase information (10 sen)
-    2. + `$ q` Purchase information (20 sen)
-         `:i` This unlocks [Anayama]'s shop (after resting).
-    3. + `$ r w` [Phantom Kunai] (3000 sen)
+- [Anayama the Peddler]
+  1. + `$ q` Purchase information (10 sen)
+  2. + `$ q` Purchase information (20 sen)
+        `:i` This unlocks [Anayama]'s shop (after resting).
+  3. + `$ r w` [Phantom Kunai] (3000 sen)
 
-  + `l` [Remnant]
-  + [Sculptor's Idol] (Outskirts Wall - Stairway)
-  + `e l` [Ashina Soldier]s
-    `:i` "I don't feel safe .."
-  + [Pellet] (stairway)
-  + `k` [Chained Ogre]
-    - `=` [Prayer Bead]
-    - `= !` [Shinobi Medicine Rank 1]
-  + [Mibu Balloon of Wealth]
-    `:?` At the gate turn around and follow the path on the right up to a small platform.
++ `l` [Remnant]
++ [Sculptor's Idol] (Outskirts Wall - Stairway)
+  - Recommendation: Travel to [Hirata Estate] before continuing.
+    `:?` Use the [Young Lord's Bell Charm] on the kind-faced Buddha sculpture in the [dilapidated temple].
+    `:i` The estate contains [Flame Vent] prosthetic tool, which can stagger the next mini-boss.
+
++ `e l` [Ashina Soldier]s
+  `:i` "I don't feel safe .."
++ [Pellet] (stairway)
++ `k` [Chained Ogre]
+  - `=` [Prayer Bead]
+  - `@` [Shinobi Medicine Rank 1]
++ [Mibu Balloon of Wealth]
+  `:?` At the gate turn around and follow the path on the right up to a small platform.
     
 #### Bridge outpost
-  - Main gate
-    + [Nightjar Monocular]
-    + `=` [Gourd Seed]
-    + [Ceramic Shard]
-  + `k` [General Tenzen Yamauchi]
-    - `=` [Prayer Bead]
-  + [Scrap Iron]
-  + [Divine Confetti]
-  + `l` [Temple Posting]
-  - Mountain cave
+- Main gate
+  + [Nightjar Monocular]
+  + `=` [Gourd Seed]
+  + [Ceramic Shard]
++ `k` [General Tenzen Yamauchi]
+  - `=` [Prayer Bead]
++ [Scrap Iron]
++ [Divine Confetti]
++ `l` [Temple Posting]
+- Mountain cave
+  + [Gachiin's Sugar]
+    `:?` Cliff ledge on the way to the cave.
+  + `k` [Headless]
+    `:i` Difficult fight not meant for early game.
+    - `=` [Ako's Spiritfall]
+  - Back way to the bridge outpost
     + [Gachiin's Sugar]
-      `:?` Cliff ledge on the way to the cave.
-    + `k` [Headless]
-      `:i` Difficult fight not meant for early game.
-      - `=` [Ako's Spiritfall]
-    - Back way to the bridge outpost
-      + [Gachiin's Sugar]
-      + [Antidote Powder]
-      + [Divine Grass]
-      + `s` Back door to the bridge outpost gate
+    + [Antidote Powder]
+    + [Divine Grass]
+    + `s` Back door to the bridge outpost gate
       
-## Underbridge Valley
+#### Underbridge Valley
+`:?` At the broken bridge, look down and to the left to find cliffs and grapple points for making your way down.
 + [Pellet]
   `:i` On the ledge between the broken bridge and the [sculptor's idol].
 + [Sculptor's Idol] (Underbridge Valley)
 + [Snap Seed]
   `:i` At the top of the slope going upwards from the palanquin.
 
-Exit the cave to continue on to [Ashina Castle approach].
+Exiting the final cave will lead to you to [Ashina Castle approach].

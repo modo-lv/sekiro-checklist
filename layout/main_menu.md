@@ -8,15 +8,18 @@
     * [Approach](ashina_castle_approach)
     * [Ashina Castle]
     * [Ashina Reservoir]
-  * [Sunken Valley (cliffs)]
+  * [Sunken Valley]
+    * [Bodhisattva Valley]
   * [Abandoned Dungeon]
   * [Senpou Temple]
   * [Ashina Depths]
+    * [Mibu Village]
 * Mid-game
   * [Underwater]
+  * [Senpou Temple](senpou_mid)
+    * [Sunken Valley Cavern]
+  * [Bodhisattva Valley](sunken_mid)
   * [Ashina Castle](castle_mid)
-  * [Sunken Valley Cavern](senpou_cavern)
-  * [Sunken Valley (bottom)]
   * [Fountainhead Palace]
 * Late game
   * [Ashina Castle](castle_late)
