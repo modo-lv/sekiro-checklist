@@ -122,7 +122,7 @@
 + [Ceramic Shard]
 + [Light Coin Purse]
 + `k` [Juzou the Drunkard]
-  - `=` [Unrefined Sake]
+  - `!` [Unrefined Sake]
   - [Prayer Bead]
 ##### Main building
 + [Dousing Powder]
@@ -137,6 +137,8 @@
   + `=` [Prayer Bead]
 + `t l` [Timid Maid]
 + [Sculptor's Idol] (Hirata Audience Chamber)
+  + Give [Unrefined Sake] to the [Sculptor]
+    Back in [Dilapidated Temple].
 + `t` [Inosuke]
   - [Snap Seed]
 + `b` [Lady Butterfly]

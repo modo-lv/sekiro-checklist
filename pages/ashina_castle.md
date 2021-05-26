@@ -122,7 +122,6 @@
 - Isshin's Room
   + `t` [Isshin Ashina]
     - [Unrefined Sake]
-    + `l` Give [Unrefined Sake]
     
 - After talking to [Isshin Ashina]
   + `l` [Divine Heir's Letter]

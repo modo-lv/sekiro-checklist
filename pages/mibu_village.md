@@ -2,16 +2,16 @@
 
 #### Approach
 + [Sculptor's Idol] (Mibu Village)
+  + `l` Give [Unrefined Sake] to [Isshin Ashina]
 + [Treasure Carp Scale]
 + `t` [Exiled Memorial Mob]
-  + `$` [Mottled Purple Gourd] (1800 sen)
+  + `$ =` [Mottled Purple Gourd] (1800 sen)
     `:i` If you haven't already, having this is a good point to try and take on the [Headless].
       + `k` [Headless] (Ashina Outskirts)
         - [Ako's Spiritfall]
       + `k` [Headless] (Ashina Depths - Hidden Forest)
         - [Gachiin's Spiritfall]
   + `$` [Dragonspring Sake] (1000)
-    + Give to [Isshin Ashina]
   + `$` 2 [Treasure Carp Scale]s (500 each)
 + [Light Coin Purse]
   `:?` All the way up the slope with the dogs.
@@ -33,6 +33,7 @@
 + [Pellet] (trench)
 + [Mibu Balloon of Soul]
 + [Sculptor's Idol] (Water Mill)
+  + `l` Give [Dragonspring Sake] to [Emma]
 - Mill house
   + [Divine Confetti]
   + [Yellow Gunpowder]

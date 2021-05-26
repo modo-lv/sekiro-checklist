@@ -99,8 +99,11 @@
   + [Ungo's Sugar]
   + [Gokan's Sugar]
 - Main Temple
+  `:i` It's easier to explore the temple when you have acquired the [Mortal Blade] and can kill the [Immortal Monk]s.
   + [Ako's Sugar] (outside)
   + [Sculptor's Idol] (Main Hall)
+  + `s` Front door
+    `:?` Directly across from the [sculptor's idol].
   + [Pellet]
   + [Lump of Fat Wax]
   + [Dragon's Blood Droplet]
@@ -109,12 +112,13 @@
 - Cave
   `:?` The cave next to the temple's back entrance.
   + [Mibu Balloon of Spirit]
-  - Out the other end
+  - Clifftop shrine
+    `:i` The secluded shrine you can reach by going through the cave.
     + [Pellet]
     + `@` [Senpou Esoteric Text]
   
 #### Halls of Illusion
-`:?` Ring the bell in the middle of the temple.
+`:?` Ring the bell in the middle of the temple main hall, behind the [sculptor's idol].
 - `!` [Illusive Hall Bell]
 + `l` [Roaring Hall Posting]
   `:?` In the room with the falling water.
@@ -131,19 +135,23 @@
 + `t` [Divine Child of Rejuvenation]
   - `!` [Mortal Blade]
   + [Rice]
++ `s` Door to the main temple
 
 ### Travel
 With [Monkey Booze], both pinwheels, [Pupetteer Ninjutsu] and [Mortal Blade] acquired, travel to:
-##### [Ashina Castle Upper Tower - Kuro's Room]
-+ `t l` Talk to [Kuro]
-  + `t l` [Okami's Ancient Text]
-+ `t l` Give [Monkey Booze] to [Isshin Ashina]
-##### [Dilapidated Temple]
-+ `t q` [Help Hanbei the Undying](kh) {:single=kh}
 ##### [Senpou Temple, Mt. Kongo]
 + `t q` [Decide Kotaro's fate](kf)
 + `t l` Give [Rice] to the [Faithful One (Senpou Temple)]
   `:?` Near the thick, bent tree trunk in the courtyard (backtrack from the Shugendo idol).
+##### [Dilapidated Temple]
++ `t q` [Help Hanbei the Undying](kh) {:single=kh}
+##### [Ashina Castle Upper Tower - Kuro's Room]
++ `t l` Talk to [Kuro]
+  + `t l` [Okami's Ancient Text]
++ `t l` Give [Monkey Booze] to [Isshin Ashina]
+
+##### Next
+- Return to [Abandoned Dungeon] and make your way down the [bottomless hole].
 
 
 ## [Mid-game] {#senpou_mid}

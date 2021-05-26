@@ -13,23 +13,25 @@
   + `l` [Crumbling Offering Tower]
   
 #### Bottomless Hole {#:id}
-+ [Mibu Balloon of Soul] (planks)
-  `:?` Up on a high ledge, first item if coming from the [Ashina Castle] side of the dungeon.
-+ [Pacifying Agent]
-  `:?` On a ledge.
-+ `k` [Shichimen Warrior]
-  - [Ceremonial Tanto]
-+ [Scrap Magnetite]
-+ [Black Gunpowder]
-+ [Mibu Balloon of Soul] (ground)
-+ [Sculptor's Idol] (Bottomless Hole)
-  `:i` From this idol, you can continue on to [Ashina Depths].
-+ [Bulging Coin Purse]
-+ `t` [Jinzaemon Kumano]
-  If you haven't sent him to [Doujun] yet.
-- Way down
+- Giant cave
+  + [Mibu Balloon of Soul] (planks)
+    `:?` Up on a high ledge, first item if coming from the [Ashina Castle] side of the dungeon.
+  + [Pacifying Agent]
+    `:?` On a ledge.
+  + `k` [Shichimen Warrior]
+    - [Ceremonial Tanto]
+  + [Scrap Magnetite]
+  + [Black Gunpowder]
+  + [Mibu Balloon of Soul] (ground)
+  + [Sculptor's Idol] (Bottomless Hole)
+    `:i` From this idol, you can continue on to [Ashina Depths].
+  + [Bulging Coin Purse]
+  + `t` [Jinzaemon Kumano]
+    If you haven't sent him to [Doujun] yet.
+- Down the hole
   + [Mibu Balloon of Soul] (ledge)
   + [Fistful of Ash] (cave)
+  - Make it all the way down to reach [Ashina Depths]
 
 #### Waterway
 + [Sculptor's Idol] (Underground Waterway)
