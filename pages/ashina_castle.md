@@ -8,17 +8,6 @@
   `:?` From the entrance bridge, grapple across the moat and go left.
 + [Sculptor's Idol] (Ashina Castle)
 
-- Path to [Ashina Reservoir](reservoir)
-  `:?` Go left from the entrance and open the door.
-  + [Scrap Iron], [Mibu Possession Balloon]
-    `:?` Go straight through the building and out the back door.
-  + [Pellet]
-    `:?` Drop down to the bottom of the building.
-  + `s` Gate to [Ashina Reservoir](reservoir)
-    `:?` Drop down to the bottom of the building.
-  - Revisit [Ashina Reservoir](reservoir)
-    `:i` The area is optional, but it contains an NPC, two minibosses and a prosthetic tool.
-
 - Path to [Abandoned Dungeon] {#castle_abandoned}
   `:?` From the entrance bridge, grapple across the moat and go straight through the open gate.
   + `e` [Ashina Soldier]s
@@ -32,6 +21,18 @@
   - `t` [Dungeon Memorial Mob]
     + `$ !` [Prayer Bead] (1400 sen)
     + `$ !` [Mask Fragment: Dragon] (5000 sen)
+
+- Path to [Ashina Reservoir](reservoir)
+  `:?` Go left from [Ashina Castle] [culptor's idol] and open the door.
+  + [Scrap Iron], [Mibu Possession Balloon]
+    `:?` Go straight through the building and out the back door.
+  + [Pellet]
+    `:?` Drop down to the bottom of the building.
+  + `s` Gate to [Ashina Reservoir](reservoir)
+    `:?` Drop down to the bottom of the building.
+  - Revisit [Ashina Reservoir](reservoir)
+    `:i` The area is optional, but it contains an NPC, two minibosses and a prosthetic tool.
+
   
 #### Main compound
 

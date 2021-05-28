@@ -34,3 +34,13 @@ Once you've acquired the pinwheel(s), return to the start of the [Senpou Temple]
 1. + Talk to him and agree
 2. + `r` Talk to him again and perform the execution
      - [Hidden Tooth]
+
+## Unlock the Return ending {#return}
+Once you've acquired the ability to dive underwater and retrieved [Holy Chapter: Infested], travel to Senpou Temple's Inner Sanctum.
++ `t` Give [Holy Chapter: Infested] to the [Divine Child]
++ Request [Rice] from her until she becomes sick
+  `:?` You must not have any rice in your inventory and may need to travel away and back and/or rest after each request.
++ Give her a [Persimmon]
+  `:i` [Taro Persimmon] also works.
+  - [Rice]
+  - [Rice for Kuro]

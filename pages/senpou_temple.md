@@ -162,7 +162,7 @@ With [Monkey Booze], both pinwheels, [Pupetteer Ninjutsu] and [Mortal Blade] acq
   + `=` [Prayer Bead]
 
 #### Inner Sanctum
-+ `t` Give [Holy Chapter: Infested] to the [Divine Child]
++ [Unlock the Return ending](return)
 
 #### Approach
 + `q` Permanently raise the kite

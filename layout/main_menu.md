@@ -21,11 +21,12 @@
   * [Bodhisattva Valley](sunken_mid)
   * [Ashina Castle](castle_mid)
   * [Fountainhead Palace]
-* Late game
-  * [Ashina Castle](castle_late)
-  * [Ashina Outskirts](outskirts_late)
-  * [Ashina Reservoir](reservoir_late)
+* Endgame
+  * [Ashina Castle](castle_end)
+  * [Ashina Outskirts](outskirts_end)
+  * [Ashina Reservoir](reservoir_end)
 * Info
   * [Game]
+  * [Roadmap]
   * [Headless]
   * [Quests]
