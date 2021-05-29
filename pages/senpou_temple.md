@@ -162,12 +162,13 @@ With [Monkey Booze], both pinwheels, [Pupetteer Ninjutsu] and [Mortal Blade] acq
   + `=` [Prayer Bead]
 
 #### Inner Sanctum
-+ [Unlock the Return ending](return)
++ [Acquire Rice for Kuro](return)
 
 #### Approach
 + `q` Permanently raise the kite
   To access Sunken Valley Cavern.
   `:?` Use [Puppetteer Ninjutsu] on the [rat] below the broken bridge next to the kite handle at the start of the [Senpou Temple].
+- Continue to [Ashina Castle](`)
 
 #### [Sunken Valley Cavern] {#:id}
 `:i` Including the cliff edges leading to it.

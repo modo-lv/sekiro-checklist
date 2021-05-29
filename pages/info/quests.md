@@ -37,10 +37,27 @@ Once you've acquired the pinwheel(s), return to the start of the [Senpou Temple]
 
 ## Unlock the Return ending {#return}
 Once you've acquired the ability to dive underwater and retrieved [Holy Chapter: Infested], travel to Senpou Temple's Inner Sanctum.
-+ `t` Give [Holy Chapter: Infested] to the [Divine Child]
-+ Request [Rice] from her until she becomes sick
-  `:?` You must not have any rice in your inventory and may need to travel away and back and/or rest after each request.
-+ Give her a [Persimmon]
-  `:i` [Taro Persimmon] also works.
-  - [Rice]
-  - [Rice for Kuro]
+
+1. [Rice for Kuro]
+   1. + `t` Give [Holy Chapter: Infested] to the [Divine Child]
+   2. + Request [Rice] from her until she becomes sick
+        `:?` You must not have any rice in your inventory and may need to travel away and back and/or rest after each request.
+   3. + Give her a [Persimmon]
+        `:i` [Taro Persimmon] also works.
+        - [Rice]
+        - [Rice for Kuro]
+2. [Holy Chapter: Divine Dragon's Return]
+   1. + `t` Give [Rice for Kuro] to [Kuro]
+        - [Sweet Rice Ball]
+   2. + `t` Talk to the [Divine Child] back in Senpou Temple
+   3. + `r t` Talk to her again in the [Halls of Illusion]
+   4. + Get [Holy Chapter: Divine Dragon's Return]
+        `:?` In the cave behind the Senpou Temple's main hall.
+        + Give it to the [Divine Child]
+3. [Frozen Tears] 
+   1. + Acquire [Fresh Serpent Viscera] from [Sunken Valley Cavern]. {:single=fresh}
+   2. + Acquire [Dried Serpent Viscera] from the cave at the [bottom of the Bodhisattva Valley](sunken_mid). {:single=dried}
+   3. + Give both to the [Divine Child]
+   4. + `r e` [Divine Child]
+   5. + `t r` Talk to the [Divine Child] once more
+        - [Frozen Tears]
